@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\AverageMark\obj\Debug\AverageMark.vbproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\AverageMark\obj\Debug\AverageMark.Resources.resources
+C:\Users\ADMIN\source\repos\AverageMark\obj\Debug\AverageMark.vbproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\AverageMark\obj\Debug\AverageMark.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\AverageMark\bin\Debug\AverageMark.exe.config
+C:\Users\ADMIN\source\repos\AverageMark\bin\Debug\AverageMark.exe
+C:\Users\ADMIN\source\repos\AverageMark\bin\Debug\AverageMark.pdb
+C:\Users\ADMIN\source\repos\AverageMark\bin\Debug\AverageMark.xml
+C:\Users\ADMIN\source\repos\AverageMark\obj\Debug\AverageMark.Form1.resources
+C:\Users\ADMIN\source\repos\AverageMark\obj\Debug\AverageMark.exe
+C:\Users\ADMIN\source\repos\AverageMark\obj\Debug\AverageMark.xml
+C:\Users\ADMIN\source\repos\AverageMark\obj\Debug\AverageMark.pdb
